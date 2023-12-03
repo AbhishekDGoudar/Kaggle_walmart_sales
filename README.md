@@ -6,6 +6,7 @@ Enhance forecasting capabilities by utilizing Weekly Sales to accurately predict
 
 
 
-Model | #1 | #2 | #3 | #4 |
+Model | RMSE | R Squared | Adjusted R Squared | Mean Cross Validation Scores | StdDev CV Scores |
 --- | --- | --- | --- |--- |
-RMSE | 532904.2 | 314873.3 | 82009.85 | 0.0 |
+Y1 = Bo + B1(X1) + B2(X2) +...+Bn(Xn) + E | 532904.3 | 10.56 | 10.60 | 9.79 | 0.0143 |
+
