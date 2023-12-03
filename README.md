@@ -15,3 +15,4 @@ Y3 = Bo + B1(X1)^3 + B2(X2)^3 +...+Bn(Xn)^3 + E | 82009.85 | 97.86 | 98.30 | 95.
 Y4 = Bo + B1(X1)^4 + B2(X2)^4 +...+Bn(Xn)^4 + E | 0.00 | 100.0 | 100.42 | 70.9 | 0.0277 |
 
 
+[Presentation - Eraam and Abhishek](https://github.com/AbhishekDGoudar/Kaggle_walmart_sales/files/13539888/ASDS.5302.Final.Project.Presentation.-.Eraam.and.Abhishek.pdf)
